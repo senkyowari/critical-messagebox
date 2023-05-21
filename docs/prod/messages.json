@@ -1,3 +1,29 @@
 {
-  "headers": []
+  "headers": [
+    {
+      "theme": "info",
+      "title": "ご案内",
+      "details": [
+        "2023年統一地方選 無事に終了いたしました。",
+        "多様なご協力ありがとうございました！",
+        "　",
+        "当webサイトは次回の開催に向けて現在整備中です。",
+        "最新のセンキョ割に関する情報は以下もご覧ください。"
+      ],
+      "links": [
+        {
+          "label": "センキョ割TOPページ",
+          "url": "https://senkyowari.com"
+        },
+        {
+          "label": "センキョ割公式Twitterアカウント",
+          "url": "https://twitter.com/senkyowariJapan"
+        },
+        {
+          "label": "大阪府 堺市長選挙特設ページ",
+          "url": "https://stores.senkyowari.com/cp/2023-osaka-sakai"
+        }
+      ]
+    }
+  ]
 }
